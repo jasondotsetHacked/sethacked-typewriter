@@ -5,7 +5,7 @@ A lightweight Web Component for animated typewriter text effects.
 ## 💾 Install
 
 ```bash
-npm install typewriter-text
+npm i sethacked-typewriter
 ```
 
 ## 🚀 Usage
