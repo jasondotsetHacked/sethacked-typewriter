@@ -1,0 +1,26 @@
+{
+  "name": "sethacked-typewriter",
+  "version": "1.0.0",
+  "description": "A lightweight Web Component for animated typewriter text effects.",
+  "main": "dist/typewriter-text.js",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "typewriter",
+    "web-component",
+    "text-effect",
+    "custom-element",
+    "animation"
+  ],
+  "author": "setHacked",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasondotsetHacked/sethacked-typewriter"
+  },
+  "devDependencies": {
+    "rollup": "^4.38.0"
+  }
+}

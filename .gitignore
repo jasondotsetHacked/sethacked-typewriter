@@ -1,0 +1,12 @@
+# Ignore build output
+/dist
+
+# Node modules
+/node_modules
+
+# IDE files
+.vscode/
+*.log
+
+# Mac system files
+.DS_Store
