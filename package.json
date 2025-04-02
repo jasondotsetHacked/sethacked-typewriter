@@ -1,6 +1,6 @@
 {
   "name": "sethacked-typewriter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Web Component for animated typewriter text effects.",
   "main": "dist/typewriter-text.js",
   "type": "module",
